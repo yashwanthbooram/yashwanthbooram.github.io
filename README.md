@@ -1,4 +1,4 @@
-### Me
+### Yashwanth Booram
 I'm enthusiastic about using machine learning and data-driven solutions to address real-world problems. 
 With practical expertise in data analytics, customer segmentation, and deep learning, I thrive on solving challenges 
 using AI/ML. Currently pursuing Computer Science & Engineering (Machine Learning) at Lovely Professional University.
