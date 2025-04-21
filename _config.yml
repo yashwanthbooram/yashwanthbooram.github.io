@@ -1,0 +1,59 @@
+title: Yashwanth Booram
+description: >
+  I'm enthusiastic about using machine learning and data-driven solutions to address real-world problems. 
+  With practical expertise in data analytics, customer segmentation, and deep learning, I thrive on solving challenges 
+  using AI/ML. Currently pursuing Computer Science & Engineering (Machine Learning) at Lovely Professional University.
+
+theme: jekyll-theme-cayman
+
+show_downloads: false
+google_analytics:
+
+# Personal Info
+name: Yashwanth 
+email: booramyashwanth@gmail.com
+github_username: https://github.com/yashwanthbooram/
+
+# Projects (linked)
+projects:
+  - title: Customer Behavior Analytics for Retail Stores
+    description: "Used K-means clustering & RFM analysis to segment customers. Visualized insights using Matplotlib and Power BI dashboards."
+    url: https://github.com/yashwanthbooram/Customer_Segmentation_Analytics_For_Retail_Stores
+
+  - title: Ship Detection in Satellite Imagery
+    description: "Applied deep learning to detect ships using the HRSC2016 dataset. Enhanced preprocessing and visualization techniques."
+    url: https://github.com/yashwanthbooram/Ship-Detection-in-Satellite-Imagery-using-Deep-Learning
+
+  - title: Adult Income Prediction
+    description: "Implemented KNN and Random Forest algorithms to predict income categories using demographic data."
+    url: https://github.com/yashwanthbooram/Adult-Income-Prediction-Using-Machine-Learning
+
+# Technical Skills
+skills:
+  - Programming: Python, Java, C, C++
+  - ML Libraries: Scikit-learn, TensorFlow, Keras, OpenCV
+  - Data Analysis: Pandas, NumPy, Matplotlib, Power BI
+
+# Certifications
+certifications:
+  - Google Cybersecurity Certificate
+  - Generative AI with LLMs – DeepLearning.AI
+  - Programming in C++ – Coursera
+  - Cloud Computing – NPTEL
+
+# Education
+education:
+  - degree: Bachelor of Technology – Computer Science and Engineering (Machine Learning)
+    institution: Lovely Professional University, Punjab
+    date: Oct 2022 – Present
+    cgpa: 6.5
+
+  - degree: Intermediate – MPC
+    institution: Narayana Junior College, Hyderabad
+    date: Apr 2020 – Mar 2022
+    percentage: 78.9%
+
+  - degree: Matriculation
+    institution: Sri Chaitanya Techno School, Hyderabad
+    date: Apr 2019 – Mar 2020
+    percentage: 100%
