@@ -1,12 +1,12 @@
-### Yashwanth Booram
+### What Am I ?
 I'm enthusiastic about using machine learning and data-driven solutions to address real-world problems. 
 With practical expertise in data analytics, customer segmentation, and deep learning, I thrive on solving challenges 
 using AI/ML. Currently pursuing Computer Science & Engineering (Machine Learning) at Lovely Professional University.
 
 [📄 Have a Look at my CV](assets/files/Yash_CV.pdf)
 
-### Projects
-- **[Customer Behavior Analytics for Retail Stores](https://github.com/your-github-username/customer-segmentation)**  
+### What I Did ?
+- **[Customer Behavior Analytics for Retail Stores](https://github.com/yashwanthbooram/Customer_Segmentation_Analytics_For_Retail_Stores)**  
   Used K-means clustering & RFM analysis to segment customers. Visualized insights using Matplotlib and Power BI dashboards.
   
 - **[Ship Detection in Satellite Imagery Using Deep Learning](https://github.com/yashwanthbooram/Ship-Detection-in-Satellite-Imagery-using-Deep-Learning)**  
@@ -17,14 +17,14 @@ using AI/ML. Currently pursuing Computer Science & Engineering (Machine Learning
 
 ---
 
-### Technical Skills
+### What I Have ?
 - **Programming**: Python, Java, C, C++
 - **ML Libraries**: Scikit-learn, TensorFlow, Keras, OpenCV
 - **Data Analysis**: Pandas, NumPy, Matplotlib
 
 ---
 
-### Certifications
+### Certifications I did
 - Google Cybersecurity Certificate
 - Generative AI with LLMs – DeepLearning.AI
 - Programming in C++ – Coursera
