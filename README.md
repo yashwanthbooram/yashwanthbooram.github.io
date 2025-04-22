@@ -2,7 +2,8 @@
 I'm enthusiastic about using machine learning and data-driven solutions to address real-world problems. 
 With practical expertise in data analytics, customer segmentation, and deep learning, I thrive on solving challenges 
 using AI/ML. Currently pursuing Computer Science & Engineering (Machine Learning) at Lovely Professional University.
-[📄 Download My CV](assets/files/Yash_CV.pdf){:target="_blank"}
+
+[📄 Have a Look at my CV](assets/files/Yash_CV.pdf)
 
 ### Projects
 - **[Customer Behavior Analytics for Retail Stores](https://github.com/your-github-username/customer-segmentation)**  
