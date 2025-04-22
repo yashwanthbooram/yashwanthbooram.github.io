@@ -50,7 +50,7 @@ using AI/ML. Currently pursuing Computer Science & Engineering (Machine Learning
 
 
 
-  [📄 Have a Look at my CV](assets/files/Yash_CV.pdf)
+  [📄 Have a Look at my CV](assets/files/YASH_CV.pdf)
 
 ##  Connect with Me
 
