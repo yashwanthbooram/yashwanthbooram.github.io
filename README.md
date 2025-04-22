@@ -48,6 +48,23 @@ using AI/ML. Currently pursuing Computer Science & Engineering (Machine Learning
   Apr 2019 – Mar 2020  
   Percentage: 100%
 
+<div style="text-align: center; margin-top: 20px;">
+  <a href="/assets/files/Yash_CV.pdf" download="Yash_CV.pdf" rel="noopener noreferrer" style="
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #B31B1B;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: 'Segoe UI', sans-serif;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    transition: background-color 0.3s ease;
+  " onmouseover="this.style.backgroundColor='#8e1616'" onmouseout="this.style.backgroundColor='#B31B1B'">
+    📄 Download My CV
+  </a>
+</div>
+
   ##  [📄 Have a Look at my CV](assets/files/Yash_CV.pdf)
 
 ##  Connect with Me
