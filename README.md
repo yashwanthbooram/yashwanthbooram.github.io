@@ -1,9 +1,8 @@
-### Yashwanth Booram ?
+### Yashwanth Booram 
 I'm enthusiastic about using machine learning and data-driven solutions to address real-world problems. 
 With practical expertise in data analytics, customer segmentation, and deep learning, I thrive on solving challenges 
 using AI/ML. Currently pursuing Computer Science & Engineering (Machine Learning) at Lovely Professional University.
 
-[📄 Have a Look at my CV](assets/files/Yash_CV.pdf)
 
 ### What I Did ?
 - **[Customer Behavior Analytics for Retail Stores](https://github.com/yashwanthbooram/Customer_Segmentation_Analytics_For_Retail_Stores)**  
@@ -48,3 +47,10 @@ using AI/ML. Currently pursuing Computer Science & Engineering (Machine Learning
   Sri Chaitanya Techno School, Hyderabad  
   Apr 2019 – Mar 2020  
   Percentage: 100%
+
+  ##  [📄 Have a Look at my CV](assets/files/Yash_CV.pdf)
+
+##  Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashwanthbooram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwanthbooram/)
