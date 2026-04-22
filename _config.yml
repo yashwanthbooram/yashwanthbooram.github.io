@@ -9,10 +9,8 @@ google_analytics:
 
 # Personal Info
 name: Yashwanth Booram
-email: booramyashwanth@gmail.com
 github_username: yashwanthbooram
 linkedin: https://linkedin.com/in/yashwanthbooram
-phone: +91-9440970270
 
 # Projects (linked)
 projects:
@@ -56,7 +54,7 @@ education:
   - degree: Bachelor of Technology - Computer Science and Engineering
     institution: Lovely Professional University, Punjab, India
     date: October 2022 – Present
-    cgpa: 7
+    cgpa: 7.1
 
   - degree: Intermediate
     institution: Narayana Junior College, Hyderabad, Telangana
