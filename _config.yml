@@ -1,8 +1,6 @@
-title: What Am I
+title: Yashwanth Booram Portfolio
 description: >
-  I'm enthusiastic about using machine learning and data-driven solutions to address real-world problems. 
-  With practical expertise in data analytics, customer segmentation, and deep learning, I thrive on solving challenges 
-  using AI/ML. Currently pursuing Computer Science & Engineering (Machine Learning) at Lovely Professional University.
+  AI/ML enthusiast and full-stack developer with hands-on experience in Generative AI, deep learning, analytics, and MERN-based applications.
 
 theme: jekyll-theme-cayman
 
@@ -10,50 +8,62 @@ show_downloads: false
 google_analytics:
 
 # Personal Info
-name: Yashwanth 
+name: Yashwanth Booram
 email: booramyashwanth@gmail.com
-github_username: https://github.com/yashwanthbooram/
+github_username: yashwanthbooram
+linkedin: https://linkedin.com/in/yashwanthbooram
+phone: +91-9440970270
 
 # Projects (linked)
 projects:
+  - title: "Movify: AI-Powered Full-Stack Movie Platform"
+    description: "Built a full-stack movie platform with intelligent recommendations and automatic review summarization using LLM APIs."
+    url: https://github.com/yashwanthbooram
+
   - title: Customer Behavior Analytics for Retail Stores
-    description: "Used K-means clustering & RFM analysis to segment customers. Visualized insights using Matplotlib and Power BI dashboards."
+    description: "Applied RFM analysis and K-Means clustering to segment customers and generate actionable insights for better marketing ROI."
     url: https://github.com/yashwanthbooram/Customer_Segmentation_Analytics_For_Retail_Stores
 
   - title: Ship Detection in Satellite Imagery
-    description: "Applied deep learning to detect ships using the HRSC2016 dataset. Enhanced preprocessing and visualization techniques."
+    description: "Developed a YOLOv3 model for ship localization in satellite imagery with ~95% training and ~92% validation accuracy."
     url: https://github.com/yashwanthbooram/Ship-Detection-in-Satellite-Imagery-using-Deep-Learning
-
-  - title: Adult Income Prediction
-    description: "Implemented KNN and Random Forest algorithms to predict income categories using demographic data."
-    url: https://github.com/yashwanthbooram/Adult-Income-Prediction-Using-Machine-Learning
 
 # Technical Skills
 skills:
-  - Programming: Python, Java, C, C++
-  - ML Libraries: Scikit-learn, TensorFlow, Keras, OpenCV
-  - Data Analysis: Pandas, NumPy, Matplotlib, Power BI
+  - Languages: Python, Java, MERN Stack
+  - Frameworks/Tools: Scikit-learn, PyTorch, Keras, TensorFlow, Pandas, NumPy, Matplotlib, OpenCV
+  - Data & Cloud: MySQL, MongoDB, Power BI, Google Colab, AWS (basic)
+  - Soft Skills: Problem-Solving Skills, Team Player, Project Management, Adaptability
+
+# Internship
+internship:
+  - company: Outlier – Generative AI Training Company
+    role: Generative AI Trainer (Freelance)
+    date: December 2024 – June 2025
+    highlights:
+      - Evaluated and optimized LLM outputs for sensitive content detection to improve consistency and contextual accuracy.
+      - Used Python, Java, C++, and JavaScript for prompt creation, testing, and analysis.
 
 # Certifications
 certifications:
-  - Google Cybersecurity Certificate
-  - Generative AI with LLMs – DeepLearning.AI
-  - Programming in C++ – Coursera
-  - Cloud Computing – NPTEL
+  - Machine Learning Specialization by Stanford | Online and DeepLearning.AI - Coursera
+  - Generative AI with Large Language Models by Coursera
+  - Dynamic Programming, Greedy Algorithms by University of Colorado Boulder
+  - Google Cybersecurity (Google)
 
 # Education
 education:
-  - degree: Bachelor of Technology – Computer Science and Engineering (Machine Learning)
-    institution: Lovely Professional University, Punjab
-    date: Oct 2022 – Present
-    cgpa: 6.5
+  - degree: Bachelor of Technology - Computer Science and Engineering
+    institution: Lovely Professional University, Punjab, India
+    date: October 2022 – Present
+    cgpa: 7
 
-  - degree: Intermediate – MPC
-    institution: Narayana Junior College, Hyderabad
-    date: Apr 2020 – Mar 2022
+  - degree: Intermediate
+    institution: Narayana Junior College, Hyderabad, Telangana
+    date: April 2020 – March 2022
     percentage: 78.9%
 
   - degree: Matriculation
-    institution: Sri Chaitanya Techno School, Hyderabad
-    date: Apr 2019 – Mar 2020
+    institution: Sri Chaitanya Techno School, Hyderabad, Telangana
+    date: April 2019 – March 2020
     percentage: 100%
